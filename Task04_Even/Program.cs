@@ -4,5 +4,5 @@
 //7 -> нет
 Console.Write("Input number: ");
 int a = Convert.ToInt32(Console.ReadLine());
-if(a%2==0) Console.WriteLine("Yes. Even");
-else Console.WriteLine("No. Not an even number");
+if(a%2==0) Console.Write("Yes. Even");
+else Console.Write("No. Not an even number");
