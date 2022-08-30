@@ -1,0 +1,15 @@
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\bin\Debug\net6.0\Task02_ChooseMax.exe
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\bin\Debug\net6.0\Task02_ChooseMax.deps.json
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\bin\Debug\net6.0\Task02_ChooseMax.runtimeconfig.json
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\bin\Debug\net6.0\Task02_ChooseMax.dll
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\bin\Debug\net6.0\Task02_ChooseMax.pdb
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.csproj.AssemblyReference.cache
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.AssemblyInfoInputs.cache
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.AssemblyInfo.cs
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.csproj.CoreCompileInputs.cache
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.dll
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\refint\Task02_ChooseMax.dll
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.pdb
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\Task02_ChooseMax.genruntimeconfig.cache
+C:\Users\dzzzr\Desktop\Geekbrains\ProgrammingCHomework\Task02_ChooseMax\obj\Debug\net6.0\ref\Task02_ChooseMax.dll
